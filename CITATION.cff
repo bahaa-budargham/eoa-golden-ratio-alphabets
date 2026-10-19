@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this data or code, please cite it as below."
+title: "The Golden Ratio in Human Alphabets: A Deterministic Rule on Letter Names Generates Exact Algebraic Constants"
+abstract: "A deterministic substitution rule applied to the written names of letters across 36 human scripts produces exact algebraic constants as Perron eigenvalues. The dataset includes the 36 incidence matrices and verification scripts."
+authors:
+  - family-names: "BuDargham"
+    given-names: "Bahaa"
+    orcid: "https://orcid.org/0009-0005-2955-3703"
+version: 1.0.0
+date-released: 2026-10-19
+license: CC-BY-4.0
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.XXXXXXX" # REPLACE WITH YOUR PAPER DOI
+    description: "Research Paper"
+  - type: doi
+    value: "10.5281/zenodo.23440579" # REPLACE WITH YOUR DATASET DOI
+    description: "Dataset and Incidence Matrices"
+repository-code: "https://github.com/YOUR_USERNAME/eoa-golden-ratio-alphabets" # REPLACE WITH YOUR REPO URL
+keywords:
+  - Golden Ratio
+  - Alphabets
+  - Perron Eigenvalue
+  - Substitution Systems
+  - Symbolic Dynamics
+  - Graph Theory
+  - Algebraic Constants
+  - Linguistics
